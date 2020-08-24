@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewBinding</string>
+    <string name="activity_btn_open_fragment">Open fragment</string>
+    <string name="activity_text_1">View Binding</string>
+    <string name="activity_text_2">is awesome</string>
+    <string name="fragment_text1">View Binding</string>
+    <string name="fragment_text2">works in fragments</string>
+    <string name="fragment_include_text1">and with</string>
+    <string name="fragment_include_text2">include layouts</string>
+</resources>
